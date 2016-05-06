@@ -1,3 +1,5 @@
+以下、`yo generator-hubot`で作ったテンプレート。
+
 # my-hubot-slack-example
 
 my-hubot-slack-example is a chat bot built on the [Hubot][hubot] framework. It was
