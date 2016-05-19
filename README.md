@@ -1,5 +1,8 @@
 以下、`yo generator-hubot`で作ったテンプレート。
 
+Macでやったら少しコケた。
+https://github.com/github/generator-hubot/issues/64
+
 # my-hubot-slack-example
 
 my-hubot-slack-example is a chat bot built on the [Hubot][hubot] framework. It was
